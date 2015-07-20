@@ -6,12 +6,12 @@
   "primary_category": "7e79fa05281346b0a0e0bd68bfafa8bc", 
   "created_at": "2015-06-19T04:58:41.509081+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-19T04:58:41.509417+00:00", 
+  "modified_at": "2015-07-20T08:54:19.162009+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "emergencies-preparedness-and-response1", 
   "uuid": "ff49c16553e8446084978ae7650358d6"
