@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "ef953c29df3e41c286b28b55cbbd7565", 
   "language": "tha_TH", 
-  "title": "nutrition \u0e2d\u0e32\u0e2b\u0e32\u0e23\u0e15\u0e32\u0e21\u0e27\u0e31\u0e22 \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e25\u0e39\u0e01\u0e40\u0e15\u0e34\u0e1a\u0e42\u0e15", 
+  "title": "\u0e2d\u0e32\u0e2b\u0e32\u0e23\u0e15\u0e32\u0e21\u0e27\u0e31\u0e22 \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e25\u0e39\u0e01\u0e40\u0e15\u0e34\u0e1a\u0e42\u0e15", 
   "image": null, 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "nutrition-and-growth", 
