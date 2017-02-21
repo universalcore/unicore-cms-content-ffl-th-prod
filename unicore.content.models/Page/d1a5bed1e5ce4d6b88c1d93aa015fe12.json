@@ -6,12 +6,12 @@
   "primary_category": "aa0d1091ac7342859b1185754e075d88", 
   "created_at": "2015-06-19T05:30:45+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2017-02-21T17:07:45.401032+00:00", 
+  "modified_at": "2017-02-21T18:23:06.499770+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 6, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "adolescents2", 
   "uuid": "d1a5bed1e5ce4d6b88c1d93aa015fe12"
