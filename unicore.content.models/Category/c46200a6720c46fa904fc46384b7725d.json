@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "c46200a6720c46fa904fc46384b7725d", 
   "language": "tha_TH", 
-  "title": "\u0e2d\u0e22\u0e48\u0e32\u0e43\u0e2b\u0e49\u0e22\u0e38\u0e07\u0e01\u0e31\u0e14", 
+  "title": "malaria \u0e2d\u0e22\u0e48\u0e32\u0e43\u0e2b\u0e49\u0e22\u0e38\u0e07\u0e01\u0e31\u0e14", 
   "image": null, 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "malaria", 
