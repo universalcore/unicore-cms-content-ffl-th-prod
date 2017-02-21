@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "40ca8aa3704246c48aaee6f215aec236", 
   "language": "tha_TH", 
-  "title": "\u0e40\u0e2d\u0e37\u0e49\u0e2d\u0e2d\u0e32\u0e17\u0e23 \u0e23\u0e48\u0e27\u0e21\u0e04\u0e38\u0e49\u0e21\u0e04\u0e23\u0e2d\u0e07\u0e40\u0e14\u0e47\u0e01", 
+  "title": "child-protection \u0e40\u0e2d\u0e37\u0e49\u0e2d\u0e2d\u0e32\u0e17\u0e23 \u0e23\u0e48\u0e27\u0e21\u0e04\u0e38\u0e49\u0e21\u0e04\u0e23\u0e2d\u0e07\u0e40\u0e14\u0e47\u0e01", 
   "image": null, 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "child-protection", 
