@@ -6,12 +6,12 @@
   "primary_category": "ef953c29df3e41c286b28b55cbbd7565", 
   "created_at": "2015-06-15T04:35:03+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2017-02-21T18:14:35.432899+00:00", 
+  "modified_at": "2017-02-21T18:24:59.291853+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 29, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "nandg4", 
   "uuid": "b1329b900ec943c09d9f8d31471e5586"
