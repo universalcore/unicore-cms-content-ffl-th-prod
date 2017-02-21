@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "2db5ada906c247e3a737e1db4b851e81", 
   "language": "tha_TH", 
-  "title": "\u0e25\u0e39\u0e01\u0e17\u0e49\u0e2d\u0e07\u0e40\u0e2a\u0e35\u0e22 \u0e15\u0e49\u0e2d\u0e07\u0e04\u0e2d\u0e22\u0e14\u0e39\u0e41\u0e25", 
+  "title": "Diarrhoea \u0e25\u0e39\u0e01\u0e17\u0e49\u0e2d\u0e07\u0e40\u0e2a\u0e35\u0e22 \u0e15\u0e49\u0e2d\u0e07\u0e04\u0e2d\u0e22\u0e14\u0e39\u0e41\u0e25", 
   "image": null, 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "Diarrhoea", 
